@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Axara</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="Msg_dont_account">Don\'t have an account?</string>
+    <string name="Msg_register_now">Register now</string>
+    <string name="register">Register</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="Msg_have_account">Already have an account?</string>
+    <string name="Msg_login_now">Login now</string>
+    <string name="log_out">LOG OUT</string>
+</resources>

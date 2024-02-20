@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024801519071",
+    "project_id": "axara-android",
+    "storage_bucket": "axara-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024801519071:android:ad6125b7d2ae73c98b806a",
+        "android_client_info": {
+          "package_name": "com.fabianjerez.axara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCavsY_VqpL_gzBDqXeu9oA5s-gPqhlowQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
